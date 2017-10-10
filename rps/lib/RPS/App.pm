@@ -1,2 +1,5 @@
 # Stub file
-# Should get a warning with this line
+#
+# Add new commands here...
+#
+# Don't forget to update the module permissions
